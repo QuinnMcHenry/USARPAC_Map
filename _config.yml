@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Sample Map Website
+description: This website demonstrates how to easily publish and display an interactive map made with Folium. It features some hot spots around Ithaca, NY.
+logo: 81fa64cc-3849-47a5-b5af-e22684e4cf78.jpg
