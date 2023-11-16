@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: 12304b MOBILIZED OET POSITIONS
-description: This is a map of the 9th MSC USARPAC available postions. Scroll to zoom, click and drag to navigate. Hover over an icon to view job title, click to read description. Clicking a green icon will zoom to reveal additional positions for one location.
+description: This is a map of the 9th MSC USARPAC available postions. Scroll to zoom, click and drag to navigate. Hover over an icon to view job title, click to read description. Clicking a green icon will zoom to reveal additional positions for one location. Application for all positions linked below map. 
+Project maintained by [Quinn McHenry](https://github.com/QuinnMcHenry) 
 logo: 81fa64cc-3849-47a5-b5af-e22684e4cf78.jpg
 github:
   is_project_page: false
